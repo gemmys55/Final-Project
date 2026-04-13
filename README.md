@@ -22,10 +22,10 @@ Overall, this project demonstrates how machine learning can be effectively used 
 
 <p>“Although the current model performs well, there are several opportunities to enhance this project further:
 
-Incorporating larger and more recent datasets to improve model generalization
-Applying advanced techniques like hyperparameter tuning to optimize model performance
-Exploring deep learning models for more complex pattern recognition
-Including real-time data such as weather, traffic density, and road conditions
-Developing a real-time prediction system or dashboard for practical use by authorities
+1)Incorporating larger and more recent datasets to improve model generalization
+2)Applying advanced techniques like hyperparameter tuning to optimize model performance
+3)Exploring deep learning models for more complex pattern recognition
+4)Including real-time data such as weather, traffic density, and road conditions
+5)Developing a real-time prediction system or dashboard for practical use by authorities
 
 These improvements can make the system more accurate, scalable, and impactful in real-world applications.”</p>
